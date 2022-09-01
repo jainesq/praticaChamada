@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -33,7 +33,7 @@
             </thead>
             <tbody id="dados">
                 <tr>
-                    <td>Francisca Gabrielly Lopes Freire</td>
+                    <td>Jaine da Silva Queiroz</td>
                     <td>X</td>
                     <td>X</td>
                     <td>X</td>
